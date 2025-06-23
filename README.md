@@ -1,11 +1,9 @@
 # anno-iptools
+This was just the old me playing with python because C# bored him, do not bother reading the code, it sucks and it is mostly print and input.
 
 ────── ANOO's IPTools ─────────────────────────────────────────
-  This repository contains all my scripts that extract information or attack just from Ipv4 or Ipv6.
-  Use only for educational purposes.
-  
-  
-  
+
+
   
 ────── Installation ───────────────────────────────────────────
 First of all, clone this repository to your machine:
